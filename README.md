@@ -13,7 +13,6 @@
 <ul>
   <li><strong>Lenguajes:</strong> JavaScript, Python, Java</li>
   <li><strong>Herramientas:</strong> Git, GitHub, Visual Studio Code</li>
-  <li><strong>Otros:</strong> Trabajo en equipo, organización, aprendizaje rápido</li>
 </ul>
 
 <hr>
