@@ -26,8 +26,6 @@
 
 <hr>
 
-<hr>
-
 <h4>📫 Contacto</h4>
 
 <ul>
