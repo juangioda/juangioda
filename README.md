@@ -30,8 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
 
-###
-
 <hr>
 
 <h4>📫 Contacto</h4>
@@ -43,6 +41,5 @@
 </ul>
 
 <hr>
-
 
 <p>⭐ Gracias por visitar mi perfil!</p>
