@@ -36,13 +36,6 @@
 
 <hr>
 
-<h2>🚀 Sobre mí</h2>
 
-<p>
-  Soy una persona organizada, con buen manejo del trabajo en equipo y muchas ganas de seguir creciendo en el mundo IT.<br>
-  Actualmente trabajo en un autoservicio, pero mi objetivo es dedicarme 100% a la programación.
-</p>
-
-<hr>
 
 <p>⭐ Gracias por visitar mi perfil!</p>
