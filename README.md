@@ -8,7 +8,16 @@
 
 <hr>
 
-<h2>🛠️ Tecnologías y Habilidades</h2>
+<h2>🚀 Sobre mí</h2>
+
+<p>
+  Soy una persona organizada, con buen manejo del trabajo en equipo y muchas ganas de seguir creciendo en el mundo IT.<br>
+  Actualmente trabajo en un autoservicio, pero mi objetivo es dedicarme 100% a la programación.
+</p>
+
+<hr>
+
+<h3>🛠️ Tecnologías y Habilidades</h3>
 
 <ul>
   <li><strong>Lenguajes:</strong> JavaScript, Python, Java</li>
@@ -19,7 +28,7 @@
 
 <hr>
 
-<h2>📫 Contacto</h2>
+<h4>📫 Contacto</h4>
 
 <ul>
   <li>Email: juanignacio@email.com</li>
@@ -28,7 +37,6 @@
 </ul>
 
 <hr>
-
 
 
 <p>⭐ Gracias por visitar mi perfil!</p>
