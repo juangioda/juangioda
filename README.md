@@ -30,7 +30,7 @@
 
 <ul>
   <li>Email: juanignacio@email.com</li>
-  <li><a href="https://linkedin.com/in/juanignacio">LinkedIn</a></li>
+  <li><a href="https://www.linkedin.com/home">LinkedIn</a></li>
   <li><a href="https://github.com/juangioda">GitHub</a></li>
 </ul>
 
