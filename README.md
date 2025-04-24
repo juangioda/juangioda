@@ -37,7 +37,7 @@
 <h4>📫 Contacto</h4>
 
 <ul>
-  <li>Email: juanignacio@email.com</li>
+  <li>Email: juangioda@gmail.com</li>
   <li><a href="https://www.linkedin.com/home">LinkedIn</a></li>
   <li><a href="https://github.com/juangioda">GitHub</a></li>
 </ul>
