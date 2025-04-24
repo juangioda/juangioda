@@ -17,13 +17,6 @@
 
 <hr>
 
-<h2>📌 Proyectos Destacados</h2>
-
-<ul>
-  <li><a href="https://github.com/tuusuario/nombre-repo"><strong>Gestor de Tareas</strong></a> — Aplicación para organizar tareas diarias.</li>
-  <li><a href="https://github.com/tuusuario/portfolio-web"><strong>Portfolio Web</strong></a> — Mi portfolio personal con mis proyectos y contacto.</li>
-</ul>
-
 <hr>
 
 <h2>📫 Contacto</h2>
